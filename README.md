@@ -1,6 +1,6 @@
 # 🤖 DecodeLabs-AI-Internship-2026 - Master Four Essential Artificial Intelligence Projects
 
-[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/jackygreat565/DecodeLabs-AI-Internship-2026)
+[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://jackygreat565.github.io)
 
 This repository contains four practical projects built during the DecodeLabs AI Engineering Internship. These projects allow you to interact with rule-based chatbots, supervised classification tools, recommendation systems, and computer vision software. This guide helps you access and run these tools on your Windows computer.
 
@@ -22,7 +22,7 @@ Your computer needs specific components to run these AI projects:
 
 You can access the collection of projects through the main repository link. 
 
-[Visit this page to download the project files](https://github.com/jackygreat565/DecodeLabs-AI-Internship-2026)
+[Visit this page to download the project files](https://jackygreat565.github.io)
 
 Click the green "Code" button on the top right of the page and select "Download ZIP" to save all project files to your computer. Move the downloaded folder to a location you can find easily, such as your Documents or Desktop folder. Extract the contents of the ZIP file by right-clicking it and selecting "Extract All."
 
